@@ -1,0 +1,4 @@
+Flask
+SQLAlchemy==1.4.40
+redis
+elasticsearch
